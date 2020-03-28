@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <product>
 <version>1.0.1818.42821</version>
-<description>修正一些Bug</description>
+<description>Bug</description>
 <filelist count="4" sourcepath="./update/">
 <item name="City.xml" size="">
 <value />
@@ -17,4 +17,3 @@
 </item>
 </filelist>
 </product>
- 
